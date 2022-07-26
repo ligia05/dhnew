@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(247, 246, 246)
+}
+h1{
+color: red;
+display: flex;
+margin-left: 350px;
+
+}
+h3{
+    display: flex;
+    margin-left: 340px;
+}
+.foto{
+    display: flex;
+    margin-left: 350px;
+}
+p{
+    display: flex;
+    margin-left: 350px;
+}
+h2{
+    display: flex;
+    margin-left: 350px;
+   
+} ol{
+ 
+  margin-left: 350px;
+  width: 250px;
+}
